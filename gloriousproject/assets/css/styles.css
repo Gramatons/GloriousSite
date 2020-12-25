@@ -49,9 +49,9 @@ align-items: center;
 	background: url(../images/heder_back.png);	
 	
 	background-repeat: none;
-	background-size: 1450px;
+	background-size: cover;
+	background-position: center;
 	height: 650px;
-
 }
 
 .text__h2 {
